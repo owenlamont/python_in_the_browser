@@ -1,0 +1,10 @@
+packages = [
+    "https://cdn.holoviz.org/panel/wheels/bokeh-3.9.0-py3-none-any.whl",
+    "https://cdn.holoviz.org/panel/wheels/panel-1.8.10-py3-none-any.whl",
+    "jinja2",
+    "pyyaml",
+    "param",
+    "pandas",
+    "pyviz_comms",
+    "plotly"
+]
